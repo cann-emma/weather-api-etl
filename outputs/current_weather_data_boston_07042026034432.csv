@@ -1,0 +1,2 @@
+City,Description,Temperature (F),Feels Like (F),Minimun Temp (F),Maximum Temp (F),Pressure,Humidty,Wind Speed,Time of Record,Sunrise (Local Time),Sunset (Local Time)
+Boston,clear sky,39.47000000000006,37.31000000000008,39.47000000000006,39.47000000000006,1020,47,1.52,2026-04-06 23:39:57,2026-04-06 06:18:03,2026-04-06 19:14:50
